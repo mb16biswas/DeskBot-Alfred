@@ -1,4 +1,0 @@
-venv/ 
-Bert_Finetuned_Model/ 
-Gpt_2_Finetuned_Model/
-*.pyc
