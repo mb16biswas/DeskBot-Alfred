@@ -16,7 +16,10 @@ Alfred is a desktop assistant chatbot. Powered by the combined intelligence of B
 
 * Graphical User Interface: Alfred offers a sleek and intuitive graphical user interface (GUI) that simplifies user interactions, instead of command prompt.
 
-* Tech Stack: Hugging Face, Pytorch 
+* Tech Stack: Hugging Face, Pytorch
+
+![Pipeline](https://github.com/mb16biswas/DeskBot-Alfred/assets/64213233/590fdc99-a30d-4ad3-a4a6-2c2a0ad28e1a)
+
 
 
 # Dagshub Repo link: For experiment tracking
