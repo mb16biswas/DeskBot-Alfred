@@ -30,3 +30,5 @@ Clone this repo
 1 `pip3 install -r requirements.txt`
 
 2 `python main.py`
+
+![Image](https://github.com/mb16biswas/DeskBot-Alfred/assets/64213233/bdef4e2e-92fc-49af-92e5-1e50636db213)
