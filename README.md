@@ -22,8 +22,6 @@ Alfred is a desktop assistant chatbot. Powered by the combined intelligence of B
 
 
 
-# Dagshub Repo link: For experiment tracking
-[Project Link]()
 
 
 # Download the repository and install the required packages:
