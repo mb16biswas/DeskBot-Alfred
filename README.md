@@ -27,6 +27,6 @@ Alfred is a desktop assistant chatbot. Powered by the combined intelligence of B
 
 Clone this repo
 
-`pip3 install -r requirements.txt`
+1 `pip3 install -r requirements.txt`
 
-`python main.py`
+2 `python main.py`
