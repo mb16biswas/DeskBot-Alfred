@@ -19,3 +19,8 @@ Alfred is a desktop assistant chatbot. Powered by the combined intelligence of B
 * Tech Stack: Hugging Face, Pytorch 
 
 
+# Download the repository and install the required packages:
+
+Clone this repo
+
+`python main.py`
